@@ -1,6 +1,6 @@
 # Code #1 Answers:
 
-A. If name is “Joseph The Dreamer” and nChar is 5, what will be the output of the code above and why?
+# A. If name is “Joseph The Dreamer” and nChar is 5, what will be the output of the code above and why?
 
 # The output of the code will be:
 # J
@@ -43,7 +43,7 @@ A. If name is “Joseph The Dreamer” and nChar is 5, what will be the output o
 #Since the error occurs when nChar is greater than the length of the name string,
 #  we can modify the code to check if nChar is greater than the length of the name. If it is, we can manually set nChar value to the absolute length of the name string. For example, the name string "Joseph The Dreamer" has a length of 17, so if nChar is greater than 17, we can set nChar to exactly 18. This way, the function will only iterate through the valid indices of the name string and avoid the IndexError. (indices of 0 to 17).
 
-Code #2 Answers:
+# Code #2 Answers:
 
 #A. Find the syntax error and modify it. Please identify the error and what did you do to fix it?
 
